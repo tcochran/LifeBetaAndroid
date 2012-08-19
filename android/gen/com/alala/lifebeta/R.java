@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.alala.mylife;
+package com.alala.lifebeta;
 
 public final class R {
     public static final class attr {

@@ -1,7 +1,9 @@
+.DS_Store
 *.class
 android/bin/*
 # Package Files #
 *.jar
 *.war
 *.ear
-
+.plugins
+.metadata

@@ -1,4 +1,4 @@
-package com.alala.mylife;
+package com.alala.lifebeta;
 
 import android.os.Bundle;
 import android.app.Activity;
