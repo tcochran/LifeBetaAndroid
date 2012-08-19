@@ -1,4 +1,4 @@
-package com.alala.mylife;
+package com.alala.lifebeta;
 
 public class Task {
 
